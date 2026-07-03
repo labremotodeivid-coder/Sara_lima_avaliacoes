@@ -1,19 +1,19 @@
 {
   "reviews": [
     {
-      "id": "1783103043681",
-      "nome": "Deivid Souza",
-      "servico": "Limpeza de Pele",
-      "nota": 5,
-      "comentario": "Minha pele ficou incrÃ­vel depois da limpeza com a Sara! Ela Ã© muito cuidadosa, o ambiente Ã© super agradÃ¡vel e o resultado superou minhas expectativas. SaÃ­ de lÃ¡ com a pele renovada e radiante. Super recomendo!",
-      "data": "2026-07-03"
-    },
-    {
-      "id": "1783118857941",
+      "id": "1",
       "nome": "Maria Fernanda",
       "servico": "Massagem Relaxante",
       "nota": 5,
       "comentario": "Tive uma experiência maravilhosa! Já fiz limpeza de pele e massagem relaxante com ela, e só tenho elogios. Ela tem mãos de fada, é muito cuidadosa, atenciosa e faz tudo com muito carinho. Saí de lá me sentindo renovada, com a autoestima lá em cima. Além de ser uma excelente profissional, é uma pessoa muito simpática e acolhedora. Recomendo de olhos fechados, vale muito a pena conhecer o trabalho dela!",
+      "data": "2026-07-03"
+    },
+    {
+      "id": "2",
+      "nome": "Deivid Souza",
+      "servico": "Limpeza de Pele",
+      "nota": 5,
+      "comentario": "Minha pele ficou incrível depois da limpeza com a Sara! Ela é muito cuidadosa, o ambiente é super agradável e o resultado superou minhas expectativas. Saí de lá com a pele renovada e radiante. Super recomendo!",
       "data": "2026-07-03"
     }
   ]
